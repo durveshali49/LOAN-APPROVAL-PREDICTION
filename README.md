@@ -12,7 +12,7 @@ Predict the approval status of loan applications using data science and machine 
 
 ---
 
-## 🚀 Project Workflow
+## 🚀 Project Workflow.
 
 1. **Data Loading & Preprocessing**
    - Handle missing values
