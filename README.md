@@ -26,7 +26,7 @@ Predict the approval status of loan applications using data science and machine 
 3. **Model Building**
    - Logistic Regression
    - Decision Tree
-   - Random Forest
+   - Random Forest.
    - Support Vector Machine
 
 4. **Model Evaluation**
