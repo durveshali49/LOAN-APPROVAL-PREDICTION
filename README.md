@@ -41,10 +41,10 @@ Predict the approval status of loan applications using data science and machine 
 
 ## 📦 Requirements
 
-- Python 3
-- Jupyter Notebook
-- pandas, numpy, matplotlib, seaborn
-- scikit-learn
+- Python 3.
+- Jupyter Notebook.
+- pandas, numpy, matplotlib, seaborn.
+- scikit-learn.
 
 ---
 
