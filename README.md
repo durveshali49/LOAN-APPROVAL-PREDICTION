@@ -1,13 +1,13 @@
 # LOAN-APPROVAL-PREDICTION
 
-🏦 **Loan Approval Prediction.**  
-Predict the approval status of loan applications using data science and machine learning. This project helps financial institutions automate loan decisions for improved speed and accuracy.
+🏦 **Loan Approval Prediction**  
+Predict the approval status of loan applications using data science and machine learning. This project helps financial institutions automate loan decisions for improved speed and accuracy
 
 ---
 
 ## 🗂️ Overview.
 
-- **Dataset:** Features include Applicant Income, Loan Amount, Credit History, Gender, Marital Status, etc.
+- **Dataset:** Features include Applicant Income, Loan Amount, Credit History, Gender, Marital Status, etc
 - **Goal:** Classify loan applications as Approved or Not Approved
 
 ---
