@@ -35,7 +35,7 @@ Predict the approval status of loan applications using data science and machine 
 
 5. **Prediction & Insights**
    - Predict loan approval
-   - Identify key factors influencing approval.
+   - Identify key factors influencing approval
 
 ---
 
