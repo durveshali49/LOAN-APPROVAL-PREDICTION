@@ -1,7 +1,7 @@
 # LOAN-APPROVAL-PREDICTION
 
 🏦 **Loan Approval Prediction**  
-Predict the approval status of loan applications using data science and machine learning. This project helps financial institutions automate loan decisions for improved speed and accuracy
+Predict the approval status of loan applications using data science and machine learning. This project helps financial institutions automate loan decisions for improved speed and accuracy.
 
 ---
 
