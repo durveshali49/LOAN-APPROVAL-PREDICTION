@@ -62,7 +62,7 @@ Predict the approval status of loan applications using data science and machine 
 
 ## 📈 Results
 
-- Achieved high prediction accuracy with Random Forest and Logistic Regression.
+- Achieved high prediction accuracy with Random Forest and Logistic Regression
 
 **Key factors for approval:**
 - Credit History
